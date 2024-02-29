@@ -8,7 +8,7 @@ terraform {
 
 provider "google" {
 
-  project = "<project-id>"
+  project = "<google-project-id>"
   region  = "us-central"
   zone    = "us-central1-a"
 }
