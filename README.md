@@ -1,4 +1,4 @@
-# Terraform Google Cloud Platform (GCP) Starter Kit
+# Terraform Google Cloud Platform (GCP) 
 
 This repository serves as a starter kit for deploying and managing resources on Google Cloud Platform (GCP) using Terraform. Terraform is a powerful infrastructure as code (IaC) tool that allows you to define and manage your cloud infrastructure in a declarative manner.
 
